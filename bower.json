@@ -1,0 +1,21 @@
+{
+  "name": "tinycircleslider",
+  "version": "2.0.8",
+  "homepage": "https://github.com/wieringen/tinycircleslider",
+  "authors": [
+    "Maarten Baijs <wieringen@gmail.com>"
+  ],
+  "main" : "./lib/jquery.tinycircleslider.js",
+  "license": "MIT",
+  "description" : "A lightweight circular carousel for jQuery",
+  "dependencies": {
+	"jquery": ">=1.10.2"
+  },
+  "keywords": [
+    "slider",
+    "circular slider",
+    "image slider",
+    "range slider",
+    "image carousel"
+  ]
+}
